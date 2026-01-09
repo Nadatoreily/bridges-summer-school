@@ -2,3 +2,7 @@
 - Name: Youmei, GitHub Account: youmei-code
 - Name: Bridges, Github Account: test
 - Name: Vearne, GitHub Account: maxi757
+- Name: Herbert, GitHub Account: Herbiweirdo
+- Name: Youmei, GitHub Account: youmei-code,
+- Name: bridges, GitHub account: test
+- Name: Emma Amini, Github Account: roseanneamini44-ui
